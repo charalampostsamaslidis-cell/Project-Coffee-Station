@@ -226,4 +226,4 @@ The project can be developed further by:
 
 ------------------------------------------------------------------------
 
-*Created as a learning exercise for HTML and CSS.*
+*Created as a learning exercise for HTML and CSS. @Copyright 2026*
