@@ -1,0 +1,49 @@
+
+/* Main heading */
+.title {
+    color: brown;
+    font-size: 32px;
+    text-align: center;
+}
+
+/* Paragraph */
+.description {
+    color: #333333;
+    background-color: #03fcdb;
+    line-height: 1.5;
+}
+
+/* Menu */
+.menu {
+    /* background-color: #bab6b6; */
+    text-align: center;
+}
+
+/* Menu hyperlinks */
+.menu a {
+    text-decoration: none;
+    display: center;
+}
+
+.menu img {
+    object-fit: cover;
+    display: block;
+}
+
+/* Product list */
+.products {
+    font-family: Arial;
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+.footer {
+    text-align: center;
+    font-size: 14px;
+    color: #888888;
+    display:center;
+}
+
+p,a{
+    text-align: center;
+}
